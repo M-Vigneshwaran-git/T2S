@@ -1,0 +1,40 @@
+* {}
+
+.banner {
+    border: 2px solid black;
+    padding: 25px;
+    background: url(/homebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+.title {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title ul li {
+    font-size: larger;
+    text-shadow: 20px;
+    list-style: none;
+    margin: 0 20px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.container {
+    fill: darkgrey;
+    background-color: darkgrey;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 25px;
+    background: url(/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
